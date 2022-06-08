@@ -1,0 +1,46 @@
+Selenium Hybrid framework:
+---------------------------
+Python , Selenium , Pytest , Page Object Model , HTML Report
+
+Framework :
+===============
+Framework is an organised way of maintaining the automations folder/files.
+In the framework all the files will communicate each other to perform certain tasks.
+
+
+Objectives/Goals
+------------------
+1. Reusibility
+2. Maintainablity
+
+Types:
+--------
+1. Build in Frameworks:
+   --------------------------
+Pytest , Robot Framework , unittest etc
+
+2. Hybrid Framworks:
+   --------------------
+Data Driven Framework , Keyword Driven Framework , Hybrid Driven Framwork.
+
+Phases:
+-------
+1. Analyse the Applications , Technology and skill set of the team , choose test cases.
+
+Test cases which can be automated:
+-----------------------------------
+* Retest-cases (Test Data)
+* Regression test cases
+* Test cases which can be automated.
+
+2. Design and implementation of framework
+
+3. Execution
+
+4. Mainatance (Version control Systems) 
+ 
+
+Ecommerce Application:
+---------------------
+* Frontend :https://demo.nopcommerce.com/
+* Backend  :https://admin-demo.nopcommerce.com/
